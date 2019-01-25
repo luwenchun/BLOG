@@ -5,7 +5,7 @@
 # Site
 title: BigDeal@blogs   #网站标题
 subtitle: 记录学习中的问题  #网站副标题
-description:  网站内容有原创也有直接引用别人地址   #网站描述
+description:  记录学习的技能和遇到的问题   #网站描述
 author: 卢文春  #作者
 language:    #语言
 timezone:  #网站时区。Hexo 默认使用您电脑的时区。时区列表。比如说：America/New_York, Japan, 和 UTC 。
